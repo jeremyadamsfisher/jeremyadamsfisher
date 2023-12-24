@@ -1,4 +1,4 @@
 ## Hello there!
 
-- Blog: [jeremyafisher.com](https://www.jeremyafisher.com)
+- Blog: [jer.fish](https://jer.fish)
 - LinkedIn: [linkedin.com/in/jeremy-fisher-437b58123/](https://www.linkedin.com/in/jeremy-fisher-437b58123/)
